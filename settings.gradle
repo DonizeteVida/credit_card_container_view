@@ -1,0 +1,3 @@
+include ':credit_card_view'
+include ':app'
+rootProject.name = "credit_card_view_sample"
