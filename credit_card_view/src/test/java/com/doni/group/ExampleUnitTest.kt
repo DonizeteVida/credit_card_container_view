@@ -1,4 +1,4 @@
-package com.doni.credit_card_view
+package com.doni.group
 
 import org.junit.Test
 
